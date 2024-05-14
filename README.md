@@ -4,6 +4,10 @@ A new Flutter project.
 
 ## Gett
 
+
+https://github.com/hamzaali163/news_app_with_flutter/assets/131654468/39ce3086-85e2-42c3-9a77-8f63a2c2fa02
+
+
 Uploading news app.mp4…
 
 ing Started
